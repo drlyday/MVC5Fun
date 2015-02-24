@@ -54,6 +54,5 @@ C:\Users\dlyday\Source\Repos\MyProjects\MVC5Fun\MVCFun\bin\Microsoft.Owin.Securi
 C:\Users\dlyday\Source\Repos\MyProjects\MVC5Fun\MVCFun\bin\Microsoft.Owin.Security.Google.xml
 C:\Users\dlyday\Source\Repos\MyProjects\MVC5Fun\MVCFun\bin\Microsoft.Owin.Security.Twitter.xml
 C:\Users\dlyday\Source\Repos\MyProjects\MVC5Fun\MVCFun\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
-C:\Users\dlyday\Source\Repos\MyProjects\MVC5Fun\MVCFun\obj\Debug\MVCFun.csprojResolveAssemblyReference.cache
 C:\Users\dlyday\Source\Repos\MyProjects\MVC5Fun\MVCFun\obj\Debug\MVCFun.dll
 C:\Users\dlyday\Source\Repos\MyProjects\MVC5Fun\MVCFun\obj\Debug\MVCFun.pdb
